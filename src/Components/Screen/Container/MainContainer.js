@@ -11,7 +11,6 @@ const MainContainer = (props) => {
                 <li><Link to="/About">About</Link></li>
                 {props.children}
             </ul>
-
         </div>
     )
 }
