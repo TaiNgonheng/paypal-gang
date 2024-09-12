@@ -19,5 +19,6 @@ const App = () =>{
             </MainContainer>
         </BrowserRouter>
     )
+
 }
 export default App;
